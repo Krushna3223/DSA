@@ -135,8 +135,7 @@ python pr12_binary_search.py
 **Krushna Dodke**
 
 - B.Tech Student  
-- CSMSS College  
-- Smart Attendance System Developer  
+- CSMSS College    
 - Learning DSA + Python  
 - Passionate about coding & AI  
 
