@@ -1,155 +1,88 @@
-# 🧠 DSA Python Programs – Complete Practical Repository
+# 📘 Python & DSA Practicals – Complete College Repository
 
-This repository contains **all Data Structures & Algorithms (DSA) practical programs** written in Python.  
-It includes **college practicals, searching, sorting, linked lists, stacks, queues, trees, expression evaluation, Python basics, and extra practice programs**.
-
-All programs are clean, well-structured, and easy to run for revision or examination.
+This repository contains **all Python programs and DSA practicals** covered in our college syllabus.  
+Every practical is implemented using clean and simple Python code for easy understanding and revision.
 
 ---
 
-# 📁 Folder Structure
+# 📁 What This Repository Contains
 
-```
-DSA/
-│
-├── pr1_array.py
-├── pr2_functions.py
-├── pr3_stack.py
-├── pr4_postfix_eval.py
-├── pr5_infix_to_postfix.py
-├── pr6_queue.py
-├── pr7_singly_linkedlist.py
-├── pr8_doubly_linkedlist.py
-├── pr9_circular_linkedlist.py
-├── pr10_bst.py
-├── pr11_sorting.py
-├── pr12_binary_search.py
-├── pr13_stack_ll.py
-├── pr14_queue_ll.py
-│
-│
-└── README.md  ← (this file)
-```
+### ✅ **Python Basics**
+- Loops  
+- Conditionals  
+- Functions  
+- Recursion  
+- String, List, Tuple, Set, Dictionary programs  
+- File handling  
+- OOP in Python  
 
----
-
-# 📚 **Contents Covered**
-
-### ✅ **1. Basic Python Programs**
-- loops  
-- conditionals  
-- string operations  
-- list, tuple, set & dictionary operations  
-- functions & recursion  
-
----
-
-### ✅ **2. Searching Algorithms**
-- Linear Search  
-- Binary Search  
-- Recursive Binary Search  
-
----
-
-### ✅ **3. Sorting Algorithms**
-- Bubble Sort  
-- Insertion Sort  
-- Selection Sort  
-- Merge Sort  
-- Quick Sort  
-- Heap Sort  
-
----
-
-### ✅ **4. Stack & Queue**
-- Stack using Array  
-- Queue using Array  
-- Stack using Linked List  
-- Queue using Linked List  
-
----
-
-### ✅ **5. Linked List Implementations**
+### ✅ **DSA (Data Structures & Algorithms)**
+- Arrays  
+- Functions (Iterative & Recursive)  
+- Stack (Array + Linked List)  
+- Queue (Array + Linked List)  
+- Infix → Postfix  
+- Postfix Evaluation  
 - Singly Linked List  
 - Doubly Linked List  
 - Circular Linked List  
+- Binary Search  
+- Sorting Algorithms  
+  - Bubble  
+  - Insertion  
+  - Selection  
+  - Merge  
+  - Quick  
+  - Heap  
+- Binary Search Tree (BST) + Traversals  
 
 ---
 
-### ✅ **6. Expression Handling**
-- Infix to Postfix  
-- Postfix Expression Evaluation  
-- Prefix/Infix/Postfix conversions  
-
----
-
-### ✅ **7. Trees**
-- Binary Tree  
-- Binary Search Tree (BST)  
-- BST Traversals (Inorder, Preorder, Postorder)  
-
----
-
-### ✅ **8. Complete Practical Set (DBATU / BTech)**
-Each file includes:
-- Aim  
-- Theory  
-- Algorithm  
-- Code  
-- Output  
-- (Optional) Viva Questions  
-
----
-
-# ▶️ **How to Run Any Program**
+# ▶️ How to Run These Programs
 
 1. Install Python 3  
-2. Open terminal inside project folder  
-3. Run any file:
+2. Open VS Code  
+3. Open terminal  
+4. Run any file using:
 
 ```sh
 python filename.py
 ```
 
-### Example:
+Example:
 
 ```sh
-python pr1_array.py
+python pr4_postfix_eval.py
+python pr10_bst.py
 python pr11_sorting.py
-python pr12_binary_search.py
 ```
 
 ---
 
-# 🛠 **Technologies Used**
+# 🎯 Purpose of This Repository
 
-- Python 3  
-- VS Code  
-- Git & GitHub  
-- Markdown formatting  
+This repository is created to:
+
+- Help students complete **college practicals**  
+- Provide **clean & correct code** for all Python + DSA topics  
+- Make revision easy before exams  
+- Keep all programs in one place for GitHub portfolio  
 
 ---
 
-# 👨‍💻 **Author**
+# 👨‍💻 Author
 
 **Krushna Dodke**
 
 - B.Tech Student  
-- CSMSS College    
-- Learning DSA + Python  
-- Passionate about coding & AI  
+- CSMSS College  
+- Python & DSA Learner  
+ 
 
 ---
 
-# 🌟 **Support**
 
-If you find any issue or want improvements:
-- Open an **Issue**
-- Or create a **Pull Request**
-- Or message me directly 😊
 
----
+If any program needs improvement or extra explanation, feel free to update the repo or raise an issue.
 
-# 🎉 Thank You for Visiting the Repository!
 
-Happy Coding! 🚀
