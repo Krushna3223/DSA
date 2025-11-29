@@ -1,6 +1,3 @@
-# # Name :- Anshul Dahake
-# # Roll No :- AI 2222
-# # Lab Practical No. 1
 # # Program :- LISP Output :-
 # (format t "Hello, World!~%")
 # ;; Arithmetic operations
@@ -24,15 +21,7 @@
 # (format t "~%Max of val1 and val3: ~d" (max val1 val3))
 # (format t "~%Min of val1 and val3: ~d~%" (min val1 val3))
 # Program :- PROLOG Output :-
-# :- initialization(main).
-# main :-
-# % Arithmetic operators
-# write('Hello, World!'), nl,
-# A is 11 + 4,
-# B is 15 - 10,
-# C is 25 * 2,
-# D is 8 / 4,
-# E is 10 mod 3,
+
 # write('Addition: '), write(A), nl,
 # write('Subtraction: '), write(B), nl,
 # write('Multiplication: '), write(C), nl,
